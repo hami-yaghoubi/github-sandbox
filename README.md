@@ -105,3 +105,6 @@ After committing, you can monitor the workflow:
 - Separate multiple URLs with spaces
 - The workflow skips itself using `[skip ci]` in its own commit message to avoid infinite loops
 - If no valid `download:` or `download-zip:` command is found in the commit message, the workflow will exit without doing anything
+
+
+download: https://sv1.downloadyarbot.ir/IDM/dTF0i8gQqKo8ItlFjf1B+unz9ASHaxzQ.mp4 https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.3.0/mhrv-rs-android-universal-v1.3.0.apk
