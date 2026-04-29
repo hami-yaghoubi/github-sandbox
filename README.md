@@ -26,7 +26,7 @@ You trigger downloads by editing any file directly on GitHub and using a special
 
 1. Open any file in your repository on GitHub (for example, this `README.md`)
 2. Click the **pencil icon** (✏️) at the top right to edit it
-3. Make any small change (add a space, a blank line, anything)
+3. Make any small change (add a space, a blank line, anythin
 4. Scroll down to the **Commit changes** section
 5. Select **Commit directly to the `main` branch**
 6. In the commit message box, type one of the commands below
